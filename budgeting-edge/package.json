@@ -1,0 +1,10 @@
+{
+  "name": "budgeting-edge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kyle S. Bober",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.5.0"
+  }
+}
